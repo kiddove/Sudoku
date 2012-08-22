@@ -13,6 +13,7 @@ namespace Sudoku
         private int row;
         private int col;
 
+        // test
         public int Row
         {
             get
